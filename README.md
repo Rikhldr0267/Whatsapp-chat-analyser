@@ -17,7 +17,7 @@ In this Whatsapp Chat analysis we will able to see Activity map, Most busy
 users, Monthly Timeline, Daily Timeline, Weekly Activity Map, Wordcloud, 
 Most Common Words, Emoji Analysis etc
 
-                                               Activity timeline (monthly , weekly , daily)
+                                        Activity timeline (monthly , weekly , daily)
 
 ![image](https://user-images.githubusercontent.com/75484346/203593158-2a2af740-087c-41fa-82ef-50edcecbe017.png)
 ![image](https://user-images.githubusercontent.com/75484346/203593253-31d75de4-3df1-4018-93a1-44178a188a9a.png)
